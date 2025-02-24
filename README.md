@@ -1,4 +1,4 @@
-# Hi 👋, I'm Megan Otton
+# Hi! I'm Megan Otton
 ### A passionate Junior Full Stack Developer from Birmingham | England
 
 - 🌱 I’m currently learning **Django**
