@@ -1,7 +1,7 @@
 # Hi! I'm Megan Otton
 ### A passionate Junior Front End Developer from Birmingham | England
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Figma**
 
 ### 📫 How to reach me
 - Email | **m.otton0107@gmail.com**
